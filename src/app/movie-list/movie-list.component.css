@@ -1,0 +1,9 @@
+.card{
+    margin: 20px 20px;
+}
+
+.title{
+    font-weight: bolder;
+    font-size: x-large;
+    color: crimson;
+}

@@ -1,0 +1,16 @@
+.body-container{
+    display: flex; 
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.container-1, .container-2, .container-3{
+    border: cadetblue;
+    background-color: cadetblue;
+    border-radius: 5px;
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 10px;
+}
